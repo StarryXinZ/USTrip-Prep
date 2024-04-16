@@ -4,7 +4,9 @@
 - Cat 
   - Book cattery from Friday 26th April to Thursday 8th May.
   - Cattery _The Cattery LTD_. Call _01773 763899_. (Called them, they have availability)
-  
+
+<img src="https://github.com/StarryXinZ/USTrip-Prep/assets/123643693/77b991fa-5ae8-424c-8528-25fe2d2a3bd8" width="100" height="100">
+
 - Car park in LHR
 
 - Jimmy's US visa
