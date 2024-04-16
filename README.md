@@ -32,6 +32,8 @@
 
 
 ## Bookings for in US, can be made before arriving US
+<img src="https://github.com/StarryXinZ/USTrip-Prep/assets/123643693/98660b83-ad10-4abd-9034-08da9d89b36f" width="200" height="200">
+
 
 
 - Theme park tickets 
