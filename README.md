@@ -15,7 +15,7 @@
     
 ### Need to complete
 - Both of us
-  - US converter, phone charger, shower and toothbrush stuff, hairdryer.
+  - US converter, phone charger, shower and toothbrush stuff, hairdryer. 
     
 - Jimmy
   - Clothes
