@@ -32,11 +32,10 @@
 
 
 ## Bookings for in US, can be made before arriving US
-<img src="https://github.com/StarryXinZ/USTrip-Prep/assets/123643693/98660b83-ad10-4abd-9034-08da9d89b36f" width="200" height="200">
 
-
+<img width="500" alt="Screenshot 2024-04-17 at 14 05 19" src="https://github.com/StarryXinZ/USTrip-Prep/assets/123643693/d0dbe70a-0830-49a9-8093-6137547b9977">
 
 - Theme park tickets 
 - Car rental
-  - Between 30th April to 2nd May (Tuesday to Thursday) .
+  - Between 30th April to 2nd May (Tuesday to Thursday).
 
